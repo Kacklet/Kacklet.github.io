@@ -28,8 +28,8 @@ Prerequisites
 
 - Download the latest release of Magma Client from the Releases section.
 - Place the downloaded .jar file into your Minecraft mods folder.
-    -- On Windows: %appdata%/.minecraft/mods
-    -- On Mac: ~/Library/Application Support/minecraft/mods
+ - On Windows: %appdata%/.minecraft/mods
+ - On Mac: ~/Library/Application Support/minecraft/mods
 - Launch Forge
 - Enjoy!
 
