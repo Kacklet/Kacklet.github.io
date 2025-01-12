@@ -39,8 +39,8 @@ The failsafes are great. If you get banned, honestly, I'd be impressed.
 
 ## Support 📧
 
-For questions, suggestions, or issues, please use the Issues tab or join our (Discord Server)[https://discord.gg/FZ4EYWhsBw].
+For questions, suggestions, or issues, please use the Issues tab or join our [Discord Server](https://discord.gg/FZ4EYWhsBw).
 
 ## Download 
 
-(Download here)[https://github.com/Kacklet/Kacklet.github.io/releases/tag/1.0]
+[Download here](https://github.com/Kacklet/Kacklet.github.io/releases/tag/1.0)
